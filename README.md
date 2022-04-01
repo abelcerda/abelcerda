@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome to my profile! :bowtie:
 
+Thanks for your interest in my work. Hopefully this visit will give you a better understanding about my abilities and interests.
+
+:heart_eyes: Main interests: **Javascript** (Node, React, Angular), **design patterns**, **architecture concepts**
+
+:mailbox: Find me at: https://abelantoniocerda.io || https://ar.linkedin.com/in/abelantoniocerda
+
+:zap: Fun fact! The difference between jam and jelly is that jam is made with mashed up fruit while jelly is made with fruit juice. :open_mouth:
 <!--
 **abelcerda/abelcerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
